@@ -2,8 +2,11 @@ package com.example.demoaddon;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 import android.os.Bundle;
 import android.widget.ImageView;
+
+import com.squareup.picasso.Picasso;
 
 public class MainActivity extends AppCompatActivity {
 
